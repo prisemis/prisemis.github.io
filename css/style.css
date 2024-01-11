@@ -64,6 +64,9 @@ a {
 nav {
   font-weight: bold;
 }
+div .subtitle {
+  font-style: italic;
+}
 /* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
 /* Tomorrow Comment */
 .highlight .comment,
