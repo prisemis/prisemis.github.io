@@ -61,6 +61,9 @@ a {
 .page p {
   line-height: 1.5em;
 }
+nav {
+  font-weight: bold;
+}
 /* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
 /* Tomorrow Comment */
 .highlight .comment,
